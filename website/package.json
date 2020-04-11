@@ -15,10 +15,10 @@
     "rename-version": "docusaurus-rename-version"
   },
   "dependencies": {
-    "docusaurus": "^1.14.2"
+    "docusaurus": "1.14.4"
   },
   "devDependencies": {
-    "crowdin-cli": "^0.3.0",
-    "graphql-request": "^1.8.2"
+    "crowdin-cli": "0.3.0",
+    "graphql-request": "1.8.2"
   }
 }

@@ -21,8 +21,8 @@
     "pretty-format": "^25.3.0"
   },
   "devDependencies": {
-    "@types/weak-napi": "^1.0.0",
-    "weak-napi": "^1.0.3"
+    "@types/weak-napi": "1.0.0",
+    "weak-napi": "1.0.3"
   },
   "engines": {
     "node": ">= 8.3"

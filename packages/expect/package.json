@@ -27,9 +27,9 @@
   },
   "devDependencies": {
     "@jest/test-utils": "^25.3.0",
-    "chalk": "^3.0.0",
-    "fast-check": "^1.13.0",
-    "immutable": "^4.0.0-rc.12"
+    "chalk": "3.0.0",
+    "fast-check": "1.23.0",
+    "immutable": "4.0.0-rc.12"
   },
   "engines": {
     "node": ">= 8.3"
