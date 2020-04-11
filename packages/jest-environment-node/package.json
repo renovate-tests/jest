@@ -25,7 +25,7 @@
     "semver": "^6.3.0"
   },
   "devDependencies": {
-    "@types/semver": "^6.2.1"
+    "@types/semver": "6.2.1"
   },
   "engines": {
     "node": ">= 8.3"

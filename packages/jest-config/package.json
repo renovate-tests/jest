@@ -37,9 +37,9 @@
     "realpath-native": "^2.0.0"
   },
   "devDependencies": {
-    "@types/babel__core": "^7.0.4",
-    "@types/glob": "^7.1.1",
-    "@types/micromatch": "^4.0.0"
+    "@types/babel__core": "7.1.7",
+    "@types/glob": "7.1.1",
+    "@types/micromatch": "4.0.1"
   },
   "engines": {
     "node": ">= 8.3"

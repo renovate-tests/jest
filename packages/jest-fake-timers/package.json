@@ -24,7 +24,7 @@
     "lolex": "^5.0.0"
   },
   "devDependencies": {
-    "@types/lolex": "^5.1.0",
+    "@types/lolex": "5.1.0",
     "@types/node": "*"
   },
   "engines": {
