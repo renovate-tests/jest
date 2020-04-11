@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:base"],
-  "prHourlyLimit": 5,
+  "prHourlyLimit": 7,
   "ignorePaths": ["e2e/**/*", "examples/**/*"]
 }
