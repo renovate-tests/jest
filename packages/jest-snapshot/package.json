@@ -33,13 +33,13 @@
     "semver": "^6.3.0"
   },
   "devDependencies": {
-    "@babel/traverse": "^7.3.4",
-    "@types/natural-compare": "^1.4.0",
-    "@types/semver": "^6.0.1",
-    "ansi-regex": "^5.0.0",
-    "ansi-styles": "^4.2.0",
+    "@babel/traverse": "7.9.0",
+    "@types/natural-compare": "1.4.0",
+    "@types/semver": "6.2.1",
+    "ansi-regex": "5.0.0",
+    "ansi-styles": "4.2.1",
     "jest-haste-map": "^25.3.0",
-    "prettier": "^1.13.4"
+    "prettier": "1.19.1"
   },
   "engines": {
     "node": ">= 8.3"

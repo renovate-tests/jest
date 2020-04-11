@@ -37,16 +37,16 @@
     "v8-to-istanbul": "^4.0.1"
   },
   "devDependencies": {
-    "@types/exit": "^0.1.30",
-    "@types/glob": "^7.1.1",
-    "@types/istanbul-lib-coverage": "^2.0.0",
-    "@types/istanbul-lib-instrument": "^1.7.2",
-    "@types/istanbul-lib-report": "^3.0.0",
-    "@types/istanbul-lib-source-maps": "^1.2.1",
-    "@types/istanbul-reports": "^1.1.0",
-    "@types/node-notifier": "^6.0.0",
-    "mock-fs": "^4.4.1",
-    "strip-ansi": "^6.0.0"
+    "@types/exit": "0.1.31",
+    "@types/glob": "7.1.1",
+    "@types/istanbul-lib-coverage": "2.0.1",
+    "@types/istanbul-lib-instrument": "1.7.3",
+    "@types/istanbul-lib-report": "3.0.0",
+    "@types/istanbul-lib-source-maps": "1.2.2",
+    "@types/istanbul-reports": "1.1.1",
+    "@types/node-notifier": "6.0.0",
+    "mock-fs": "4.11.0",
+    "strip-ansi": "6.0.0"
   },
   "optionalDependencies": {
     "node-notifier": "^6.0.0"

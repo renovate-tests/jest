@@ -15,9 +15,9 @@
   "dependencies": {
     "@types/jest": "*",
     "@types/node": "*",
-    "@types/semver": "^6.2.1",
-    "ansi-regex": "^5.0.0",
-    "ansi-styles": "^4.1.0",
-    "semver": "^6.3.0"
+    "@types/semver": "6.2.1",
+    "ansi-regex": "5.0.0",
+    "ansi-styles": "4.2.1",
+    "semver": "6.3.0"
   }
 }
